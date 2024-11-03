@@ -146,7 +146,7 @@
             ?>
         </div>
     </div>
-    <div class="content" style="background: #444; height: 200px; display: flex; justify-content: center; align-items: center;">
+    <div class="content" style="background: #444; height: 100px; display: flex; justify-content: center; align-items: center;">
         <footer>
             <h2>Integrantes:</h2>
             <ul>
@@ -154,8 +154,6 @@
                 <li>Ponce Galicia Fanny Belén</li>
                 <li>Hernández Heredia Kevin</li>
             </ul>
-            <p>Quejas y sujerencias con Fanny</p>
-            <a href="https://wa.me/5212291344340" target="_blank" class="whatsapp-link"><i class="fab fa-whatsapp"></i></a>
         </footer>
     </div>
 </body>
